@@ -1,0 +1,18 @@
+{
+  "name": "hello-graphql-js",
+  "version": "1.0.0",
+  "description": "graphql with js",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql",
+    "hello"
+  ],
+  "author": "sinhnx",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^16.8.1"
+  }
+}

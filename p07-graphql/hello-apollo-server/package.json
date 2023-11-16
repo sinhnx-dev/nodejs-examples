@@ -1,0 +1,22 @@
+{
+  "name": "hello-apollo-server",
+  "version": "1.0.0",
+  "description": "apollo server with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "graphql",
+    "apollo",
+    "server"
+  ],
+  "author": "sinhnx",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "graphql": "^16.8.1"
+  },
+  "type": "module" 
+}
